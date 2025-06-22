@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Worked on AOSP and LineageOS<br>❤️ I cant live without with Hyprland (I use arch btw)<br>🌱 I’m currently learning electron app development and web dev<br>⚡ Fun fact : The idle ram usage of Windows 11 is minimum ram requirement of Arch linux<br>
+🔭 Worked on AOSP a lot<br>❤️ I cant live without with Hyprland (I use arch btw)<br>🌱 I’m currently learning electron app development and web dev<br>⚡ Fun fact : The idle ram usage of Windows 11 is minimum ram requirement of Arch linux<br>
 
 
 # 💻 Tech Stack:
